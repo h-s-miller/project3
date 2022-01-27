@@ -1,3 +1,4 @@
+![](https://github.com/h-s-miller/project3/workflows/project3%20Tests/badge.svg)
 # Project 3
 Minimum Spanning Trees
 
@@ -7,13 +8,13 @@ The purpose of this assignment is to implement Prim's algorithm, a non-trivial g
 # Assignment Tasks
 
 ## Coding Assessment
-* [TODO] Complete the `Graph.construct_mst` method found in the mst/graph.py 
+* [DONE] Complete the `Graph.construct_mst` method found in the mst/graph.py 
 	* All necessary modules have already been imported. We encourage you to not rely on any other dependencies (e.g. networkx). 
 
 ## Software Development Assessment
 
-* [TODO] Add more assertions to the `check_mst` function in test/test_mst.py 
-* [TODO] Write at least one more unit test (in the test_mst.py file) for your construct_mst implementation
+* [DONE] Add more assertions to the `check_mst` function in test/test_mst.py 
+* [DONE] Write at least one more unit test (in the test_mst.py file) for your construct_mst implementation
 * Two unit tests have already been provided. 
     * The first is a small graph of four nodes
     * The second is a larger graph of 140 single cells, projected onto a lower dimensional subspace
