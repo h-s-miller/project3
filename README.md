@@ -1,4 +1,4 @@
-![](https://github.com/h-s-miller/project3/workflows/project3%20Tests/badge.svg)
+! [BuildStatus] (https://github.com/h-s-miller/project3/workflows/project3/badge.svg?event=push)
 # Project 3
 Minimum Spanning Trees
 
